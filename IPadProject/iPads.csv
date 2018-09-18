@@ -1,0 +1,18 @@
+model,cellular?,capacity,price
+9.7 iPad Pro,N,32,599
+9.7 iPad Pro,n,128,699
+9.7 iPad Pro,n,-256,799
+9.7 iPad Pro,y,32,729
+9.7 iPad Pro,y,128,829
+9.7 iPad Pro,Y,256,929
+12.9 iPad Pro,N,33,799
+12.9 iPad Pro,N,128,899
+12.9 iPad Pro,N,256,999
+12.9 iPad Pro,Y,32,1029
+12.9 iPad Pro,Y,-128,1129
+iPad,?,31,329
+iPad,N,128,429
+iPad,Y,31,459
+iPad,Y,128,559
+iPad mini 4,N,128,399
+iPad mini 4,?,128,529
